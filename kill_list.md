@@ -10,3 +10,4 @@ next line added
 new line
 bla bla
 dsadas
+dupa
