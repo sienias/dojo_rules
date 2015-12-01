@@ -7,3 +7,4 @@ Repeated code blocks
 Bad variable names
 programmer grievance
 next line added
+new line
