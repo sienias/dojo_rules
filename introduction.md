@@ -5,3 +5,4 @@ Git, JavaScript, Ruby
 * Ruby on Rails
 * JavaScript
 * Node.js
+* Killing history using git rebase
